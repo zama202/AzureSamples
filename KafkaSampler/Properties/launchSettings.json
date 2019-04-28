@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "KafkaSampler": {
+      "commandName": "Project"
+    }
+  }
+}
